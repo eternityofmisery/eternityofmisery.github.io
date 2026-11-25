@@ -24,13 +24,13 @@ body {
 }
 
 a {
-    color: #722424;
+    color: #f1eeee;
 }
 
 /* 2. Menu */
 header {
-    background-color: white;
-    border-bottom: 1px solid #e5eaf0;
+    background-color: #722424;
+    border-bottom: 1px solid #722424;
 }
 
 .topo {
@@ -45,7 +45,7 @@ header {
     font-weight: bold;
     font-size: 19px;
     text-decoration: none;
-    color: #442626;
+    color: #f5f4f4;
 }
 
 nav a {
